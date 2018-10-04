@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Blockchain</string>
+    <string name="Sign_up">Sign Up For ProPTITBay</string>
+    <string name="proptitPay">ProPTIT Pay</string>
+    <string name="email">Email</string>
+    <string name="passWord">Password</string>
+    <string name="logIn">Log In</string>
+    <string name="ppCount">ProPtit Account</string>
+    <string name="tao">Tạo ProPTIT Account</string>
+    <string name="pp">Hãy chạm vào liên kết bên dưới và đọc thật kỹ. Khi đánh dấu vào các ô này, bạn xác nhận rằng bạn đã đọc và đồng ý với các điều khoản sau:</string>
+    <string name="checkBox1">Tôi đồng ý tất cả.</string>
+    <string name="checkBox2">Tôi đồng ý với chính sách bảo mật ProPtit.</string>
+    <string name="checkBox3">Bật dịch vụ tùy chọn.</string>
+    <string name="checkBox4">Nhận thôn tin tiếp thị.</string>
+    <string name="button1">Đồng ý</string>
+    <string name="button2">Từ chối</string>
+    <string name="textView1">Tạo tài khoản ProPtit của bạn</string>
+    <string name="matKhau">Mật khẩu</string>
+    <string name="cfMatKhau">Xác nhận mật khẩu</string>
+    <string name="ho">Họ</string>
+    <string name="ten">Tên</string>
+    <string name="ngay">Ngày</string>
+    <string name="thang">Tháng</string>
+    <string name="nam">Năm</string>
+    <string name="kiemTra">Tôi không phải là người máy</string>
+    <string name="tiep">Đăng kí</string>
+    <string name="chungMinhThu">Chứng minh thư nhân dân</string>
+</resources>
